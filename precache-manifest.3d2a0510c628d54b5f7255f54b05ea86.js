@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0844b4c393f5d079bd735c8db75cef18",
+    "revision": "5e568ca9a4cdc8aa5c6b8d665813a03f",
     "url": "/adjoined/index.html"
   },
   {
-    "revision": "fd348897fe217c8d8413",
-    "url": "/adjoined/static/css/main.a7c75081.chunk.css"
+    "revision": "c76327ff64983c643e20",
+    "url": "/adjoined/static/css/main.a4c25c6c.chunk.css"
   },
   {
     "revision": "050c1b03c991d88608b4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adjoined/static/js/2.1119b804.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd348897fe217c8d8413",
+    "revision": "c76327ff64983c643e20",
     "url": "/adjoined/static/js/main.1eea485b.chunk.js"
   },
   {
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e94decf013d3e2c9adcc0b97cc5ce44",
     "url": "/adjoined/static/media/DroidSans.9e94decf.ttf"
+  },
+  {
+    "revision": "197fb4af5fb2d9044ab4c638b058c3ac",
+    "url": "/adjoined/static/media/PlayfairDisplay-Bold.197fb4af.otf"
   },
   {
     "revision": "20e1565dd5c9e47bd241d99c0dd55ad1",
